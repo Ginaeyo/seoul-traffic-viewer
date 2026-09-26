@@ -201,18 +201,6 @@ https://github.com/Ginaeyo/seoul-traffic-viewer
 
 ---
 
-## Contributors
-
-| Name | Student Number | GitHub ID | Role |
-|------|------|------|------|
-| ____________________ | ____________________ | ____________________ | Project Manager |
-| ____________________ | ____________________ | ____________________ | TrafficData |
-| ____________________ | ____________________ | ____________________ | TrafficAPI |
-| ____________________ | ____________________ | ____________________ | MapManager |
-| ____________________ | ____________________ | ____________________ | Dashboard & UI |
-
----
-
 ## License
 
 This project was developed for the Object-Oriented Programming Team Project.
